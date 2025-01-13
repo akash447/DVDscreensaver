@@ -1,13 +1,3 @@
-Creating an HTML webpage with a DVD-style screensaver animation, a visible 20-word sentence, a playlist section for uploading and playing songs, and an excitement voice file option can be a fun project. Here’s how you can achieve this:
-
-1. **DVD Screensaver Animation**: We will use JavaScript for the animation.
-2. **Editable Sentence**: We will use an input field for the sentence.
-3. **Playlist Section**: We will use the HTML5 `<audio>` element with JavaScript for uploading and playing songs.
-4. **Excitement Voice File**: We will use an audio file that plays when the DVD logo misses the corner.
-
-Here is the complete code:
-
-```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
